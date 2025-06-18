@@ -9,7 +9,7 @@
 
 ### 🚀 About me
 
-- **Front-end Developer** @ <a href="https://shamps.dev">Shamps.Dev</a> (Mar 2024 – present)  
+- **Front-end Developer** @ <a href="https://t.me/shampsdev">Shamps.Dev</a> (Mar 2024 – present)  
   Building Telegram Mini-Apps — React&nbsp;+&nbsp;TypeScript, Zustand, WebSockets
 - **B.Sc. Computer Science** — ITMO University (2023 – 2027)  
   Discrete-Math mentor (Sep 2024–Jan 2025)
