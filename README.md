@@ -34,7 +34,6 @@
 | **Leenky**<br/><sub>Network app inside Telegram</sub> | Front-end lead | React + TS · Zustand · React Query |**1** |
 | **GoPadel** | Front-end dev | React + TS · Zustand | 
 
-<sub>*Star counts — 19 Jun 2025.</sub>
 
 ### 📈 GitHub insight
 
