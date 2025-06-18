@@ -35,12 +35,6 @@
 | **GoPadel** | Front-end dev | React + TS · Zustand | 
 
 
-### 📈 GitHub insight
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=PriestFaria&show_icons=true&theme=tokyonight&hide=stars,issues" />
-</p>
-
 ### 🤝 Let’s connect
 
 <a href="mailto:timuridit@gmail.com"><img src="https://img.shields.io/badge/Email-timuridit@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
