@@ -50,6 +50,3 @@
 <a href="mailto:timuridit@gmail.com"><img src="https://img.shields.io/badge/Email-timuridit@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://t.me/PriestFaria"><img src="https://img.shields.io/badge/Telegram-@priest_faria-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
----
-
-<sub>⚡ Fun fact: I can solve a Rubik’s cube blindfolded — and refactor legacy UI almost as fast 😉</sub>
