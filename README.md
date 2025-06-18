@@ -11,9 +11,9 @@
 
 - **Front-end Developer** @ <a href="https://t.me/shampsdev">Shamps.Dev</a> (Mar 2024 – present)  
   Building Telegram Mini-Apps — React&nbsp;+&nbsp;TypeScript, Zustand, WebSockets
-- **B.Sc. Computer Science** — ITMO University (2023 – 2027)  
+- **B.Sc. Software Engineering** — ITMO University (2023 – 2027)  
   Discrete-Math mentor (Sep 2024–Jan 2025)
-- 📌 **Open to developer roles** (front-end-centric full-stack / web)
+- **Open to developer roles** (front-end-centric full-stack / web)
 
 ### 🛠 Core stack
 
