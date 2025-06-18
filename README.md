@@ -30,7 +30,7 @@
 | Project | Role & Scope | Stack Highlights |
 |---------|--------------|------------------|
 | **DishDash (mini-app)** | Front-end junior | React + TS · Vite · Zustand | 
-| **SightQuest**<br/><sub>Real-world AR quest game</sub> | Full-stack dev | Go · React Native · WebSockets |
+| **SightQuest**<br/><sub>Real-world AR quest game</sub> | Front-end dev | Go · React Native · WebSockets |
 | **Leenky**<br/><sub>Networking app inside Telegram</sub> | Front-end lead | React + TS · Zustand · React Query |**1** |
 | **GoPadel** | Front-end dev | React + TS · Zustand | 
 
