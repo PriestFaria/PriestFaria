@@ -42,7 +42,6 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=PriestFaria&show_icons=true&theme=tokyonight&hide=stars,issues" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriestFaria&layout=compact&langs_count=8&theme=tokyonight" />
   <br/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=PriestFaria&theme=tokyonight" />
 </p>
 
 ### 🤝 Let’s connect
