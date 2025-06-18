@@ -11,8 +11,6 @@
 
 - **Front-end Developer** @ <a href="https://shamps.dev">Shamps.Dev</a> (Mar 2024 – present)  
   Building Telegram Mini-Apps that serve&nbsp;8 000 + users daily — React&nbsp;+&nbsp;TypeScript, Zustand, WebSockets
-- **Full-stack & DevOps Engineer** @ <a href="https://bitfidel.com">Bitfidel</a> (Jan 2025 – present)  
-  React front-ends · ASP.NET micro-services · Docker + Traefik · PostgreSQL
 - **B.Sc. Computer Science** — ITMO University (2023 – 2027)  
   Discrete-Math mentor (Sep 2024–Jan 2025)
 - 📌 **Open to developer roles** (front-end-centric full-stack / web)
